@@ -1,1 +1,1 @@
-Model trained with Segmentation Models Pytorch library
+A image segmentation model for portrait segmentation. Model is trained with a regular UNet and a UNet using the efficent-net backbone from the Segmentation Models Pytorch library. Includes conversion code of the regular UNet model into Coreml.
